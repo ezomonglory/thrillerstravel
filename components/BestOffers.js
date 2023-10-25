@@ -1,4 +1,3 @@
-
 import { bestOffers } from '@/data'
 import React from 'react'
 import BestOfferCard from './BestOfferCard'
