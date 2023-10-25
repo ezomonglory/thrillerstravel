@@ -2,7 +2,6 @@ import { bestOffers } from '@/data'
 import React from 'react'
 import BestOfferCard from './BestOfferCard'
 
-
 const BestOffers = () => {
   return (
     <div className='flex flex-col gap-y-[24px]  relative  h-max '>
